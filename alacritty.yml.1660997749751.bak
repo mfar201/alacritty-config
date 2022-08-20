@@ -30,9 +30,25 @@ window:
   padding:
     x: 5
     y: 5
-  opacity: 0.7
+  opacity: 0.6
   decorations: full
 
 font:
-  size: 12
+  normal:
+    family: jetbrains mono
+    style: Normal
+
+  bold:
+    family: jetbrains mono
+    style: Bold
+
+  italic:
+    family: jetbrains mono
+    style: Italic
+
+  bold_italic:
+    family: jetbrains mono
+    style: Bold Italic
+
+  size: 14
 theme: Dracula
